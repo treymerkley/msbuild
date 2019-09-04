@@ -80,6 +80,6 @@
 
     <DisableImplicitNuGetFallbackFolder>true</DisableImplicitNuGetFallbackFolder>
 
-    <MicroBuildPluginsSwixBuildVersion>1.0.670</MicroBuildPluginsSwixBuildVersion>
+    <MicroBuildPluginsSwixBuildVersion>1.0.672</MicroBuildPluginsSwixBuildVersion>
   </PropertyGroup>
 </Project>
