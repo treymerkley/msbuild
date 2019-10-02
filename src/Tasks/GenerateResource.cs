@@ -56,7 +56,7 @@ namespace Microsoft.Build.Tasks
 
 
 #region Fields
-
+        
         // This cache helps us track the linked resource files listed inside of a resx resource file
         private ResGenDependencies _cache;
 
